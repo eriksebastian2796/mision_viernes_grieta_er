@@ -10,6 +10,9 @@ from campeones.camille import cam_damage, cam_health, cam_b_speed, cam_definitiv
 from campeones.lux import lux_damage, lux_health, lux_b_speed, lux_definitiva, lux_name
 from campeones.thresh import thresh_damage, thresh_health, thresh_b_speed,thresh_definitiva, thresh_name
 
+print("Bienvenidos a la grieta del invocador")
+print("--------------------------")
+
 print(mostrar_menu(),"\n")
 #Mostramos el menu desde una funcion como se solicito
 
